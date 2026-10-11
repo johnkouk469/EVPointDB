@@ -144,3 +144,9 @@ before using the script on a real server.
 - Credentials are written directly in `users.sql` because this is a course
   example. In a real project, keep credentials out of the repository, for
   example in environment variables or a git-ignored config file.
+
+## Licence
+
+The code, queries, diagrams and documentation are released under the [MIT licence](LICENSE).
+The Open Charge Map snapshot in `data/` is not covered by it: it stays under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see *Sample data*).
